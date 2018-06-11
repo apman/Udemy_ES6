@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+build/bundle.js
+npm-debug.log
+.env
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
